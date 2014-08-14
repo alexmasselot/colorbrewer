@@ -1,5 +1,5 @@
 {
-  "name": "colorbrewer",
+  "name": "colorbrewer2",
   "main": [
     "colorbrewer.js",
     "colorbrewer.css"
